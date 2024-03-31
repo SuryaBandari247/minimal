@@ -4,6 +4,16 @@
 
 ## Machine learning
 
+### MLOps- With Open Source - Lead Scoring Casestudy 
+
+CodePro is an EdTech startup that had a phenomenal seed A funding round. It used the money to increase its brand awareness. As the marketing spend increased, it got several leads from different sources. Although it had spent significant money on acquiring customers, it had to be profitable in the long run to sustain the business.
+
+> The main objectives of lead scoring are as follows:
+
+* Remove Junk by categorising leads on the basis of propensity to purchase
+* Gain insights to streamline lead conversion and address improper targeting
+![image](https://github.com/SuryaBandari247/MLOps_Lead_Scoring_Open_Source/assets/128714777/78284251-4377-4b19-9561-1445995e05fc)
+
 ### Fraud Detection
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
