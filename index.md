@@ -1,7 +1,7 @@
 # Machine learning Portfolio
 
 ---
-## MLOps- With Open Source - Lead Scoring Casestudy 
+## MLOps- With Open Source - Lead Scoring - Sales Domain
 
 CodePro is an EdTech startup that had a phenomenal seed A funding round. It used the money to increase its brand awareness. As the marketing spend increased, it got several leads from different sources. Although it had spent significant money on acquiring customers, it had to be profitable in the long run to sustain the business.
 
@@ -15,7 +15,7 @@ _MLflow and Airflow, popular open-source tools, are utilized to achieve comprehe
 * Gain insights to streamline lead conversion and address improper targeting
 ![image](https://github.com/SuryaBandari247/MLOps_Lead_Scoring_Open_Source/assets/128714777/78284251-4377-4b19-9561-1445995e05fc)
 
-## Semantic Processing - Ticket Classification - Finance Domain
+## Semantic Processing (NLP) - Ticket Classification - Finance Domain
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/SemanticProcessing_Ticket_Classification)
 
@@ -23,9 +23,18 @@ For a financial company, customer complaints carry a lot of importance, as they 
 
 With the help of **non-negative matrix factorization (NMF)**, an approach under topic modelling, you will detect patterns and recurring words present in each ticket. This can be then used to understand the important features for each cluster of categories. By segregating the clusters, you will be able to identify the topics of the customer complaints. 
 
-![dataset-card](https://github.com/SuryaBandari247/portfolio/assets/128714777/b4674aad-9e87-4ae4-bb07-b585ec96b4cf)
-
 ![image](https://github.com/SuryaBandari247/portfolio/assets/128714777/bbbe5754-fa30-4b9f-a9a5-ccfb0dbb48eb)
+
+## Syntactic Processing (NLP) - Identify Treatment - Health domain
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/SyntacticProcessing_Healthcare)
+
+‘BeHealthy’ has a web platform that allows doctors to list their services and manage patient interactions and provides services for patients such as booking interactions with doctors and ordering medicines online. So, companies like ‘BeHealthy’ are providing medical services, prescriptions and online consultations and generating huge data day by day.
+Using a custom build **NER** and **CRF** to get the list of diseases and their treatment from the dataset
+
+![cddab393-b05e-4a20-81a7-5f7de4938f42](https://github.com/SuryaBandari247/portfolio/assets/128714777/1282d6e4-19b9-4e19-98fe-d61f109999d8)
+
+
 
 
 ### Fraud Detection
