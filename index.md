@@ -30,7 +30,8 @@ With the help of **non-negative matrix factorization (NMF)**, an approach under 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/SyntacticProcessing_Healthcare)
 
 ‘BeHealthy’ has a web platform that allows doctors to list their services and manage patient interactions and provides services for patients such as booking interactions with doctors and ordering medicines online. So, companies like ‘BeHealthy’ are providing medical services, prescriptions and online consultations and generating huge data day by day.
-Using a custom build **NER** and **CRF** to get the list of diseases and their treatment from the dataset
+
+_Using a custom build **NER** and **CRF** to get the list of diseases and their treatment from the dataset._
 
 ![cddab393-b05e-4a20-81a7-5f7de4938f42](https://github.com/SuryaBandari247/portfolio/assets/128714777/1282d6e4-19b9-4e19-98fe-d61f109999d8)
 
