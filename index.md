@@ -19,26 +19,29 @@ _MLflow and Airflow, popular open-source tools, are utilized to achieve comprehe
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/SemanticProcessing_Ticket_Classification)
 
+![image](https://github.com/SuryaBandari247/portfolio/assets/128714777/bbbe5754-fa30-4b9f-a9a5-ccfb0dbb48eb)
+
 For a financial company, customer complaints carry a lot of importance, as they are often an indicator of the shortcomings in their products and services. If these complaints are resolved efficiently in time, they can bring down customer dissatisfaction to a minimum and retain them with stronger loyalty. This also gives them an idea of how to continuously improve their services to attract more customers. 
 
 With the help of **non-negative matrix factorization (NMF)**, an approach under topic modelling, you will detect patterns and recurring words present in each ticket. This can be then used to understand the important features for each cluster of categories. By segregating the clusters, you will be able to identify the topics of the customer complaints. 
 
-![image](https://github.com/SuryaBandari247/portfolio/assets/128714777/bbbe5754-fa30-4b9f-a9a5-ccfb0dbb48eb)
 
 ## Syntactic Processing (NLP) - Identify Treatment - Health domain
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/SyntacticProcessing_Healthcare)
 
+![cddab393-b05e-4a20-81a7-5f7de4938f42](https://github.com/SuryaBandari247/portfolio/assets/128714777/1282d6e4-19b9-4e19-98fe-d61f109999d8)
+
 ‘BeHealthy’ has a web platform that allows doctors to list their services and manage patient interactions and provides services for patients such as booking interactions with doctors and ordering medicines online. So, companies like ‘BeHealthy’ are providing medical services, prescriptions and online consultations and generating huge data day by day.
 
 _Using a custom build **NER** and **CRF** to get the list of diseases and their treatment from the dataset._
-
-![cddab393-b05e-4a20-81a7-5f7de4938f42](https://github.com/SuryaBandari247/portfolio/assets/128714777/1282d6e4-19b9-4e19-98fe-d61f109999d8)
 
 
 ## Gesture Recognition (DL) - RNN/CNN
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/DL_RNN_Gesture_Recognition)
+
+![1690389776221](https://github.com/SuryaBandari247/portfolio/assets/128714777/9b0df8f6-3b1c-47fd-a217-7b3d0e9f4178)
 
 A home electronics company which manufactures state of the art smart televisions. You want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote.
 The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:
@@ -51,14 +54,16 @@ The gestures are continuously monitored by the webcam mounted on the TV. Each ge
 
 _Tried different combination of models with Conv2D+RNN and Conv3D._
 
-![1690389776221](https://github.com/SuryaBandari247/portfolio/assets/128714777/9b0df8f6-3b1c-47fd-a217-7b3d0e9f4178)
-
 
 ## Telecom Churn - Classical ML model - Telecom Domain
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/Telecom-Churn)
 
-In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
+![1621963349834](https://github.com/SuryaBandari247/portfolio/assets/128714777/1d10121f-ea5f-4afb-8bbb-a954751f9289)
+
+In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. 
+
+Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
 
 For many incumbent operators, retaining high profitable customers is the number one business goal. To reduce customer churn, telecom companies need to predict which customers are at high risk of churn. In this project, you will analyze customer-level data of a leading telecom firm, and build predictive models to identify customers at high risk of churn.
 
@@ -66,17 +71,18 @@ It is your job to predict if a customer will churn, given the ~170 columns conta
 
 _Tried different classical models like **PCA/Random forest /XBboosting**_
 
-![1621963349834](https://github.com/SuryaBandari247/portfolio/assets/128714777/1d10121f-ea5f-4afb-8bbb-a954751f9289)
-
-
 
 ### Fraud Detection
-
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/fraud_detection)
 
 <center><img src="assets/img/fraud_detection.jpg"/></center>
+
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
+
+
+
+
 
 
 
