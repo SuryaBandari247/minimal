@@ -54,6 +54,22 @@ _Tried different combination of models with Conv2D+RNN and Conv3D._
 ![1690389776221](https://github.com/SuryaBandari247/portfolio/assets/128714777/9b0df8f6-3b1c-47fd-a217-7b3d0e9f4178)
 
 
+## Telecom Churn - Classical ML model - Telecom Domain
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/Telecom-Churn)
+
+In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
+
+For many incumbent operators, retaining high profitable customers is the number one business goal. To reduce customer churn, telecom companies need to predict which customers are at high risk of churn. In this project, you will analyze customer-level data of a leading telecom firm, and build predictive models to identify customers at high risk of churn.
+
+It is your job to predict if a customer will churn, given the ~170 columns containing customer behavior, usage patterns, payment patterns, and other features that might be relevant.
+
+_Tried different classical models like **PCA/Random forest /XBboosting**_
+
+![1621963349834](https://github.com/SuryaBandari247/portfolio/assets/128714777/1d10121f-ea5f-4afb-8bbb-a954751f9289)
+
+
+
 ### Fraud Detection
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
