@@ -15,6 +15,22 @@ _MLflow and Airflow, popular open-source tools, are utilized to achieve comprehe
 * Gain insights to streamline lead conversion and address improper targeting
 ![image](https://github.com/SuryaBandari247/MLOps_Lead_Scoring_Open_Source/assets/128714777/78284251-4377-4b19-9561-1445995e05fc)
 
+## Telecom Churn - Classical ML model - Telecom Domain
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/Telecom-Churn)
+
+![1621963349834](https://github.com/SuryaBandari247/portfolio/assets/128714777/1d10121f-ea5f-4afb-8bbb-a954751f9289)
+
+In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. 
+
+Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
+
+For many incumbent operators, retaining high profitable customers is the number one business goal. To reduce customer churn, telecom companies need to predict which customers are at high risk of churn. In this project, you will analyze customer-level data of a leading telecom firm, and build predictive models to identify customers at high risk of churn.
+
+It is your job to predict if a customer will churn, given the ~170 columns containing customer behavior, usage patterns, payment patterns, and other features that might be relevant.
+
+_Tried different classical models like **PCA/Random forest /XBboosting**_
+
 ## Semantic Processing (NLP) - Ticket Classification - Finance Domain
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/SemanticProcessing_Ticket_Classification)
@@ -54,31 +70,32 @@ The gestures are continuously monitored by the webcam mounted on the TV. Each ge
 
 _Tried different combination of models with Conv2D+RNN and Conv3D._
 
+## Gesture Recognition (DL) - RNN/CNN
 
-## Telecom Churn - Classical ML model - Telecom Domain
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/DL_RNN_Gesture_Recognition)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/Telecom-Churn)
+![1690389776221](https://github.com/SuryaBandari247/portfolio/assets/128714777/9b0df8f6-3b1c-47fd-a217-7b3d0e9f4178)
 
-![1621963349834](https://github.com/SuryaBandari247/portfolio/assets/128714777/1d10121f-ea5f-4afb-8bbb-a954751f9289)
+A home electronics company which manufactures state of the art smart televisions. You want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote.
+The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:
 
-In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. 
+* Thumbs up: Increase the volume
+* Thumbs down: Decrease the volume
+* Left swipe: 'Jump' backwards 10 seconds
+* Right swipe: 'Jump' forward 10 seconds
+* Stop: Pause the movie
 
-Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
+_Tried different combination of models with Conv2D+RNN and Conv3D._
 
-For many incumbent operators, retaining high profitable customers is the number one business goal. To reduce customer churn, telecom companies need to predict which customers are at high risk of churn. In this project, you will analyze customer-level data of a leading telecom firm, and build predictive models to identify customers at high risk of churn.
+## Melanoma_Detection (DL) - CNN - Medical Domain
 
-It is your job to predict if a customer will churn, given the ~170 columns containing customer behavior, usage patterns, payment patterns, and other features that might be relevant.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/DL_CNN_Melanoma_Detection)
 
-_Tried different classical models like **PCA/Random forest /XBboosting**_
+![65160668e4c476d6e69e6f67_Melanoma-warning-signs](https://github.com/SuryaBandari247/portfolio/assets/128714777/eed70517-8707-4b21-9245-38cfbe26646f)
 
 
-### Fraud Detection
+To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis. This dataset of about 2357 images of skin cancer types. The dataset contains 9 sub-directories in each train and test subdirectories. The 9 sub-directories contains the images of 9 skin cancer types respectively.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/fraud_detection)
-
-<center><img src="assets/img/fraud_detection.jpg"/></center>
-
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
 
 
 
