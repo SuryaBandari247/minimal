@@ -2,10 +2,9 @@
 
 ---
 ## MLOps- With Open Source - Lead Scoring - Sales Domain
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/MLOps_Lead_Scoring_Open_Source)
 
 CodePro is an EdTech startup that had a phenomenal seed A funding round. It used the money to increase its brand awareness. As the marketing spend increased, it got several leads from different sources. Although it had spent significant money on acquiring customers, it had to be profitable in the long run to sustain the business.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/MLOps_Lead_Scoring_Open_Source)
 
 _MLflow and Airflow, popular open-source tools, are utilized to achieve comprehensive MLOps solutions._
 
