@@ -70,22 +70,6 @@ The gestures are continuously monitored by the webcam mounted on the TV. Each ge
 
 _Tried different combination of models with Conv2D+RNN and Conv3D._
 
-## Gesture Recognition (DL) - RNN/CNN
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/DL_RNN_Gesture_Recognition)
-
-![1690389776221](https://github.com/SuryaBandari247/portfolio/assets/128714777/9b0df8f6-3b1c-47fd-a217-7b3d0e9f4178)
-
-A home electronics company which manufactures state of the art smart televisions. You want to develop a cool feature in the smart-TV that can recognise five different gestures performed by the user which will help users control the TV without using a remote.
-The gestures are continuously monitored by the webcam mounted on the TV. Each gesture corresponds to a specific command:
-
-* Thumbs up: Increase the volume
-* Thumbs down: Decrease the volume
-* Left swipe: 'Jump' backwards 10 seconds
-* Right swipe: 'Jump' forward 10 seconds
-* Stop: Pause the movie
-
-_Tried different combination of models with Conv2D+RNN and Conv3D._
 
 ## Melanoma_Detection (DL) - CNN - Medical Domain
 
