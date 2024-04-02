@@ -1,17 +1,11 @@
 title: <p align="center"> Surya Bandari </p>
 logo: /assets/img/logo.png
-
 description:
   <p align="center">
   <a href="docs/SuryaBandariCV.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/surya-bandari/">LinkedIn</a> |
   <a href="https://github.com/SuryaBandari247">GitHub</a>
-  </p>
+  
   <p align="center">
   Forever open to mastering fresh skills.
-  </p>
-  
-
-
-
 theme: jekyll-theme-minimal
