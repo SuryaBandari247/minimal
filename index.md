@@ -69,6 +69,19 @@ The gestures are continuously monitored by the webcam mounted on the TV. Each ge
 
 _Tried different combination of models with Conv2D+RNN and Conv3D._
 
+## News Recommendation System - NLP - Social Media Domain
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/SuryaBandari247/News-Recommendation-System)
+
+![image](https://github.com/SuryaBandari247/portfolio/assets/128714777/b741a5b1-fbcd-4596-acd4-51a2f34e1d47)
+
+Inshort aims to reduce revenue leakage by personalizing user tastes and introducing new content daily on the application's homepage. We will assess these recommendations by tracking user interactions with the content. If a user clicks on a news item, we will recommend similar news items at the bottom of the page to further refine user interests.
+
+The goal is to build a recommendation system that:
+1. Recommends the top 10 relevant articles to users at the start of the day.
+2. Recommends the top 10 similar articles based on the articles clicked by the user.
+
+_Implement Content based filtering/ Collabrative based and Hybrid models._
 
 ## Melanoma_Detection (DL) - CNN - Medical Domain
 
@@ -76,9 +89,7 @@ _Tried different combination of models with Conv2D+RNN and Conv3D._
 
 ![65160668e4c476d6e69e6f67_Melanoma-warning-signs](https://github.com/SuryaBandari247/portfolio/assets/128714777/eed70517-8707-4b21-9245-38cfbe26646f)
 
-
 To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution which can evaluate images and alert the dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis. This dataset of about 2357 images of skin cancer types. The dataset contains 9 sub-directories in each train and test subdirectories. The 9 sub-directories contains the images of 9 skin cancer types respectively.
-
 
 
 
